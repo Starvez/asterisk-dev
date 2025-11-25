@@ -1,0 +1,12 @@
+;
+; Music on Hold Configuration
+; Base configuration - dynamic classes are appended from database
+;
+[general]
+;cachertclasses=yes
+
+[default]
+mode=files
+directory=moh
+
+; === Dynamic MOH classes are generated below this line ===
